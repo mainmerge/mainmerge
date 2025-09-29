@@ -47,21 +47,20 @@ I’m passionate about building projects in **Java, JavaScript, React, and Pytho
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainmerge&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainmerge&layout=compact&theme=radical)  
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mainmerge&theme=gruvbox&no-frame=true&margin-w=15)
-
----
-
 ### 📬 Let’s connect
-- 🌐 LinkedIn: [linkedin.com/in/aigerim-kaiyrzhanova](https://linkedin.com/in/aigerim-kaiyrzhanova)  
-- 📧 Email: aigerimkaiyrzhanova3@gmail.com  
-- 🐙 GitHub: [github.com/mainmerge](https://github.com/mainmerge)  
+
+<p align="left">
+  <a href="https://linkedin.com/in/aigerim-kaiyrzhanova" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aigerimkaiyrzhanova3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/mainmerge" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
+
 ⭐️ *“Step by step, I grow stronger.”*  
